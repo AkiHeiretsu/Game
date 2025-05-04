@@ -1,0 +1,3 @@
+/home/thu/sdl2_hangman/build/CMakeFiles/rebuild_cache.dir
+/home/thu/sdl2_hangman/build/CMakeFiles/edit_cache.dir
+/home/thu/sdl2_hangman/build/CMakeFiles/hangman.dir

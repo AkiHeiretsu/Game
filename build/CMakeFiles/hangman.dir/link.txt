@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/hangman.dir/src/main.cpp.o  -o hangman  -lSDL2 -lSDL2_ttf -lSDL2 -lSDL2_mixer -lSDL2 -lSDL2_image -lSDL2 -lSDL2_mixer -lSDL2_image 
