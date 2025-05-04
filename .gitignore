@@ -1,0 +1,17 @@
+# Build directories
+build/
+CMakeFiles/
+*.cmake
+Makefile
+
+# Executables
+hangman
+
+# IDE files
+.vscode/
+*.swp
+*.swo
+
+# System files
+.DS_Store
+Thumbs.db 
